@@ -1,7 +1,7 @@
 ## Thinking processes of LeetCode Questions
 
-In this repo, I put up all the thinking processes to 
-LeetCode Questions along with easy-to-understand diagrams.
+In this repo, I have put up thinking processes to 
+some of the LeetCode Questions along with easy-to-understand diagrams.
 I hope it helps!
  
 Problems:
