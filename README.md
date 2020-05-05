@@ -9,3 +9,5 @@ Problems:
 * Jump Game
 * Binary Tree Maximum Path Sum
 * Decode Ways
+* Leaf-similar tree - Microsoft Online Assessment
+* Flipping an Image - Microsoft Online Assessment
